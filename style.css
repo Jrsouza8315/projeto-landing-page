@@ -135,3 +135,12 @@ body{
     display: block;
     margin: auto;
 }
+
+.rodape-imagem-2{
+    width: 400px;
+    height: 400px;
+    display: block;
+    margin: auto;
+    padding: 0;
+    
+}
